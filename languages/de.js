@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- Bot-Antwortzeit: **{latency}ms**",
         websocketPing: "- WebSocket-Ping: **{ping}ms**",
         uptime: "- Betriebszeit: **{uptime}**",
-        footer: "Entwickelt von SSRR | Prime Music v1.2"
+        footer: "Developed by Pegagus Clan | German Musik Bot"
       }
     },
     addsong: {
