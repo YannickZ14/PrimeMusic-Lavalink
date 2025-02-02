@@ -9,7 +9,7 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   activityName: "Pegagus Clan Musik", 
-  activityType: "PLAYING",  // Available activity types : LISTENING , PLAYING
+  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/v26JAgNeVA",
   embedTimeout: 5, 
   errorLog: "", 
