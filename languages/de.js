@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Entwickelt von SSRR | Prime Music v1.2",
+    footer: "Developed by Pegagus Clan | German Musik Bot",
     ping: {
       description: "Prüfe die Bot-Latenz",
       response: "Ping wird gemessen...",
