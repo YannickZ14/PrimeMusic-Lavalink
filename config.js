@@ -2,13 +2,13 @@
 
 module.exports = {
   TOKEN: "",
-  language: "en",
+  language: "de",
   ownerID: ["1123986321669632031", ""], 
   mongodbUri : "mongodb+srv://codex-in1:codex-in1@codex-in1.1bgxp.mongodb.net/?retryWrites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Pegagus Clan Musik I English", 
+  activityName: "Pegagus Clan Musik I Deutsch", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/v26JAgNeVA",
   embedTimeout: 5, 
