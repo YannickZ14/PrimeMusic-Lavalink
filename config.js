@@ -3,14 +3,14 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  ownerID: ["1123986321669632031", ""], 
+  mongodbUri : "mongodb+srv://codex-us2:codex-us2@codex-us2.62zm1.mongodb.net/?retryWrites=true&w=majority&appName=codex-us2",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  activityName: "Pegagus Clan Musik", 
+  activityType: "PLAYING",  // Available activity types : LISTENING , PLAYING
+  SupportServer: "https://discord.gg/v26JAgNeVA",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
