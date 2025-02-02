@@ -8,7 +8,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Pegagus Clan Musik", 
+  activityName: "Pegagus Clan Musik I English", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/v26JAgNeVA",
   embedTimeout: 5, 
